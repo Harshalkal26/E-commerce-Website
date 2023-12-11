@@ -3,7 +3,7 @@
 
 <h1>E Commerce Website</h1>
  
-<img src="[https://github.com/Harshalkal26/E-commerce-Website/blob/master/img/img1.png](https://drive.google.com/drive/u/0/search?q=img1)" alt="logo" width=5 height=5 />
+<img src="https://github.com/Harshalkal26/E-commerce-Website/blob/master/img/img1.png](https://drive.google.com/drive/u/0/search?q=img1" alt="logo" width=5 height=5 />
 
 <p>Welcome to My cool online store featuring popular sneaker brands like Air Force, Jordan, Hippie, and more! My easy-to-use website, made with HTML, CSS, and JavaScript, makes shopping a breeze. Check out our handpicked collection of the newest styles and classic favorites from your preferred brands. It's the perfect place for sneaker fans – where fashion meets simplicity.</p>
 
