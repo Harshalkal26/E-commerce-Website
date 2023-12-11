@@ -3,7 +3,8 @@
 
 <h1>E Commerce Website</h1>
 
-![Image1]("https://drive.google.com/file/d/1rdv0EYIBLDzAf-mrP-_lLjLmsH_1CByy/view?usp=sharing")
+![Image1](https://drive.google.com/uc?export=view&id=1rdv0EYIBLDzAf-mrP-_lLjLmsH_1CByy)
+
 
 <p>Welcome to My cool online store featuring popular sneaker brands like Air Force, Jordan, Hippie, and more! My easy-to-use website, made with HTML, CSS, and JavaScript, makes shopping a breeze. Check out our handpicked collection of the newest styles and classic favorites from your preferred brands. It's the perfect place for sneaker fans – where fashion meets simplicity.</p>
 
