@@ -4,6 +4,8 @@
 <h1>E Commerce Website</h1>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalkal26&show_icons=true&locale=en&layout=compact" alt="harshalkal26" /></p>
+<p><img src="https://drive.google.com/drive/u/0/search?q=img1" alt="harshalkal26"  /></p>
+
 
 <p>Welcome to My cool online store featuring popular sneaker brands like Air Force, Jordan, Hippie, and more! My easy-to-use website, made with HTML, CSS, and JavaScript, makes shopping a breeze. Check out our handpicked collection of the newest styles and classic favorites from your preferred brands. It's the perfect place for sneaker fans – where fashion meets simplicity.</p>
 
