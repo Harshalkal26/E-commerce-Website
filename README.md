@@ -3,6 +3,8 @@
 
 <h1>E Commerce Website</h1>
 
+![Image1]("https://drive.google.com/file/d/1rdv0EYIBLDzAf-mrP-_lLjLmsH_1CByy/view?usp=sharing")
+
 <p>Welcome to My cool online store featuring popular sneaker brands like Air Force, Jordan, Hippie, and more! My easy-to-use website, made with HTML, CSS, and JavaScript, makes shopping a breeze. Check out our handpicked collection of the newest styles and classic favorites from your preferred brands. It's the perfect place for sneaker fans – where fashion meets simplicity.</p>
 
 <h4> <a href=https://e-commerce-website-sable.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/Harshalkal26/E Commerce Website/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Harshalkal26/E Commerce Website/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Harshalkal26/E Commerce Website/issues"> Request Feature </a> </h4>
